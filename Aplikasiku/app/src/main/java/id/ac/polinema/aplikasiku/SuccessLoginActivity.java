@@ -1,8 +1,8 @@
 package id.ac.polinema.aplikasiku;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class SuccessLoginActivity extends AppCompatActivity {
 
